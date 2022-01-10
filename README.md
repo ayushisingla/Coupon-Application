@@ -1,5 +1,5 @@
 # Coupon Application
-Coupon application helps to apply coupons while buying products in an ecommerce application.
+The coupon application helps to apply coupons while buying products in an e-commerce application.
 
 ## Features:
 - You can add a coupon to the database
